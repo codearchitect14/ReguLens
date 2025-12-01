@@ -40,8 +40,6 @@ lerna-debug.log*
 .pnpm-debug.log*
 
 # Environment Variables
-.env
-.env.local
 .env.development.local
 .env.test.local
 .env.production.local
@@ -114,3 +112,4 @@ logs/
 # Data files (optional - uncomment if you don't want to track data)
 # backend/app/data/*.json
 # !backend/app/data/.gitkeep
+config.bat
